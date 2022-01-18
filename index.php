@@ -529,8 +529,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         </div>
         <div class="w3agile_footer_copy">
           <p>
-            © 2016 Hair Salon. All rights reserved | Design by
-            <a href="http://w3layouts.com/">W3layouts</a>
+            © 2022 BarberClub. Todos los derechos reservados | Design by
+            <a href="#!">J.Y.Z.</a>
           </p>
         </div>
       </div>
